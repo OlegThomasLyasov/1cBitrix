@@ -1,0 +1,1 @@
+<i class="fa fa-envelope"></i> <a href="mailto:admin@domain.com">Lov2103@yandex.ru</a>

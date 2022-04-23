@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/blog" => "16412376258192",]; ?>
